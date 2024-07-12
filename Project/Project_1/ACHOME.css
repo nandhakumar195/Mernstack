@@ -1,0 +1,54 @@
+/* Services section */
+#services {
+    background-color: #f9f9f9;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#services h2 {
+    font-size: 2.5em;
+    margin-bottom: 30px;
+}
+
+.service-item {
+    background-color: dee2e6;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    padding: 20px;
+    margin: 20px 0;
+    text-align: left;
+}
+
+.service-item:hover{
+    background-color: #ced4da;
+}
+
+.service-item h3 {
+    color: #333;
+    font-size: 1.8em;
+    margin-bottom: 10px;
+}
+
+.service-item p {
+    color: #666;
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+/* Footer styles */
+footer {
+    /* background-color: #333; */
+    color: black;
+    text-align: center;
+    padding: 0px 0;
+    font-size: x-small;
+}
+
+footer p {
+    margin: 0;
+}
